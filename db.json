@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "Useremail": "johndoe@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "Useremail": "janesmith@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "nirj Doe",
+      "Useremail": "nraj@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Sukhdeb Smith",
+      "Useremail": "sukhdeb@gmail.com"
+    },
+    {
+      "name": "Ritik  ",
+      "Useremail": "Ritik@gmil.com",
+      "id": "6"
+    },
+    {
+      "name": "urfi jawd ",
+      "Useremail": "urfi@gmail.com",
+      "id": "10"
+    },
+    {
+      "id": "12 ",
+      "name": "Rohit",
+      "Useremail": "Rohit@gmail.com"
+    },
+    {
+      "name": "Sukhdeb patra",
+      "Useremail": "sukhdebpatra@gmail.com",
+      "id": "17"
+    },
+   
+    {
+      "name": "Allu ku",
+      "Useremail": "allu@gmail.com",
+      "id": "7"
+    }
+  ]
+}
